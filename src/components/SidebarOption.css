@@ -1,0 +1,30 @@
+p {
+  align-items: center;
+  margin-bottom: 30px;
+  /* padding-left: 20px; */
+}
+.addicon {
+  align-items: baseline;
+  text-align: center;
+  font-size: 40px;
+}
+
+.sidebaroption {
+  background-color: #363b4d;
+  color: white;
+  width: 350px;
+  margin-right: 400px;
+  padding: 50px;
+}
+
+.sidebar__header {
+  width: 100px;
+  /* border: 1px solid red; */
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.sidebar__photo {
+  margin-left: 10px;
+  margin-top: 20px;
+}

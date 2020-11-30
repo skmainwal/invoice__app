@@ -1,0 +1,30 @@
+.description {
+  border-bottom: 1px solid #f3f3f4;
+  margin-bottom: 60px;
+}
+
+.description__left {
+  flex: 1;
+}
+/* 
+input {
+  width: 75px;
+  height: 35px;
+} */
+.description__right {
+  margin-right: 10px;
+}
+.description__right > input {
+  width: 75px;
+  height: 35px;
+}
+
+.iconbutton {
+  cursor: pointer;
+  font-size: 35px !important;
+  /* font: 30px; */
+  margin-right: 25px;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  color: #a1a1a1 !important;
+}

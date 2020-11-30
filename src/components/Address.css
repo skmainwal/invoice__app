@@ -1,0 +1,49 @@
+.address {
+  border-bottom: 1px solid gray;
+  margin-bottom: 60px;
+}
+.address__left {
+  /* flex: auto; */
+  flex: 1;
+  width: 550px;
+  padding-right: 40px;
+}
+.shift_right {
+  /* display: flex; */
+  flex: 1;
+}
+input,
+.invoice__due {
+  width: 300px;
+  height: 35px;
+  background-color: #f3f3f4;
+  /* font-size: 18px; */
+}
+
+.address__left_top {
+  display: flex;
+  /* border: 1px solid gray; */
+  padding-bottom: 116px;
+  flex-wrap: wrap;
+}
+.add__left_top {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.input__client {
+  height: 35px;
+  font-size: 18px;
+  width: 510px;
+}
+.address_shift_left {
+  flex: 1;
+  margin-bottom: 20px;
+}
+.cursor {
+  cursor: pointer;
+}
+
+.add {
+  flex-wrap: wrap;
+}

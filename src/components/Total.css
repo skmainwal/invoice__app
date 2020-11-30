@@ -1,0 +1,17 @@
+.total {
+  width: 600px;
+  margin-bottom: 200px;
+}
+.total__sub {
+  flex: 1;
+  color: #929292;
+  font-size: 20px;
+}
+
+.total__sub {
+  /* border-bottom: 1px solid gray; */
+}
+.total_subtotal {
+  border-bottom: 1px solid gray;
+  margin-bottom: 20px;
+}

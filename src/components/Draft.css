@@ -1,0 +1,82 @@
+.draft {
+  /* background-color: white; */
+  margin: 0 0 10px 0;
+  padding: 0 0 10px 0;
+  border-bottom: 1px solid gray;
+  font-size: 14px;
+  line-height: 19.6px;
+  text-decoration: none solidrgb(51, 51, 51);
+  padding: 15px;
+  margin-bottom: 40px;
+}
+
+.draft__top {
+  display: flex;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.draft_button {
+  height: 45px;
+  width: 100px;
+  margin: 0 10px 0 0;
+  background-color: #a1a1a1;
+  color: white;
+  font-size: 25px;
+  /* justify-content: center; */
+  /* align-items: center; */
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 15px;
+}
+.draft__top_input {
+  width: 400px;
+  border: 3px solid #d7d7d9;
+  transform: none;
+  padding: 0 5px 0 5px;
+  height: 45px;
+}
+input::placeholder {
+  font-size: 30px;
+  text-align: center;
+}
+textarea::placeholder {
+  font-size: 25px;
+  padding: 10px;
+}
+textarea {
+  margin: 10px;
+  margin-bottom: 30px;
+}
+.draft__mid {
+  margin-bottom: 30px;
+}
+.draft__bottom {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.draft__bottom_right {
+  display: flex;
+}
+.draft__bottom__left {
+  /* margin-right: 500px; */
+  flex: 1;
+}
+
+.draft__bottom__left > input {
+  /* width: 150px; */
+}
+p {
+  font-size: 20px;
+}
+.invoice_no {
+  /* text-align: center;
+  align-items: center; */
+}
+
+.language,
+.currency {
+  background-color: #f3f3f4;
+  font-size: 15px;
+}

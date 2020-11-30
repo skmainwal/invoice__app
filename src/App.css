@@ -1,4 +1,16 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  /* background-color: #f3f3f4; */
+}
+.app__invoice {
+  background-color: #363b4d;
+}
+/* .app__sidebar {
+  margin-right: 90px;
+} */
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

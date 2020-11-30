@@ -1,0 +1,47 @@
+.invoice_form {
+  background-color: #f5f5f5;
+  width: 1300px;
+  /* margin-left: 100px; */
+}
+
+.draft__mid {
+  font-size: 20px;
+}
+
+.invoice_input {
+  width: 100px;
+}
+.invoice_desc {
+  flex: 1;
+}
+.invoice__right {
+  margin: 10px;
+}
+
+.invoice_form_bo {
+  height: 1000px;
+}
+.total__right {
+  flex: 1;
+}
+.Total__ {
+  width: 350px;
+  /* float: right; */
+}
+
+.invoice__mid__ {
+  margin-bottom: 100px;
+}
+
+.total__ {
+  border-bottom: 1px;
+  margin-bottom: 20px;
+}
+.invoice_input {
+  width: 150px;
+}
+.invoice__,
+.billed {
+  /* margin-right: 50px; */
+  flex: 1;
+}
